@@ -1,3 +1,0 @@
-[submodule "env"]
-	path = env
-	url = git@github.com:ontology-layer-2/riscv-test-env.git
